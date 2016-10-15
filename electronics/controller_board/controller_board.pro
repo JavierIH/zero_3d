@@ -1,4 +1,4 @@
-update=vie 14 oct 2016 22:36:56 CEST
+update=sáb 15 oct 2016 01:20:53 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=mylib
+LibName31=/home/javierih/Downloads/BNO055/libBNO055
