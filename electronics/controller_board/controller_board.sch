@@ -1812,4 +1812,328 @@ Connection ~ 4700 7600
 Wire Wire Line
 	4300 7600 4100 7600
 Connection ~ 4100 7600
+$Comp
+L CONN_02X20 P?
+U 1 1 5802604E
+P 11450 7550
+F 0 "P?" H 11450 8600 50  0000 C CNN
+F 1 "Arietta G25" V 11450 7550 50  0000 C CNN
+F 2 "" H 11450 6600 50  0000 C CNN
+F 3 "" H 11450 6600 50  0000 C CNN
+	1    11450 7550
+	1    0    0    -1  
+$EndComp
+Text Label 11200 6600 2    60   ~ 0
+5V
+Text Label 11200 6700 2    60   ~ 0
+NSRT
+Text Label 11200 6800 2    60   ~ 0
+3V3
+Text Label 11200 6900 2    60   ~ 0
+SPI1_CK
+Text Label 11200 7000 2    60   ~ 0
+GND
+Text Label 11200 7100 2    60   ~ 0
+PA24
+Text Label 11200 7200 2    60   ~ 0
+PA25
+Text Label 11200 7300 2    60   ~ 0
+PA26
+Text Label 11200 7400 2    60   ~ 0
+PA27
+Text Label 11200 7500 2    60   ~ 0
+PA28
+Text Label 11200 7600 2    60   ~ 0
+PA29
+Text Label 11200 7700 2    60   ~ 0
+TXD0
+Text Label 11200 7800 2    60   ~ 0
+SPI1_CS0
+Text Label 11200 7900 2    60   ~ 0
+RXD1
+Text Label 11200 8000 2    60   ~ 0
+PC28
+Text Label 11200 8100 2    60   ~ 0
+PC4
+Text Label 11200 8200 2    60   ~ 0
+PC3
+Text Label 11200 8300 2    60   ~ 0
+1W
+Text Label 11200 8400 2    60   ~ 0
+PC1
+Text Label 11200 8500 2    60   ~ 0
+PC0
+Text Label 11700 6600 0    60   ~ 0
+VBAT
+Text Label 11700 6700 0    60   ~ 0
+USB_A_D-
+Text Label 11700 6800 0    60   ~ 0
+USB_A_D+
+Text Label 11700 6900 0    60   ~ 0
+SPI1_MOSI
+Text Label 11700 7000 0    60   ~ 0
+SPI1_MISO
+Text Label 11700 7100 0    60   ~ 0
+SCL0
+Text Label 11700 7200 0    60   ~ 0
+SDA0
+Text Label 11700 7300 0    60   ~ 0
+USB_B_D+
+Text Label 11700 7400 0    60   ~ 0
+USB_B_D-
+Text Label 11700 7500 0    60   ~ 0
+USB_C_D-
+Text Label 11700 7600 0    60   ~ 0
+USB_C_D+
+Text Label 11700 7700 0    60   ~ 0
+RXD0
+Text Label 11700 7800 0    60   ~ 0
+PA7
+Text Label 11700 7900 0    60   ~ 0
+TXD1
+Text Label 11700 8000 0    60   ~ 0
+PC27
+Text Label 11700 8100 0    60   ~ 0
+PC31
+Text Label 11700 8200 0    60   ~ 0
+PWM0
+Text Label 11700 8300 0    60   ~ 0
+PWM1
+Text Label 11700 8400 0    60   ~ 0
+ADC2
+Text Label 11700 8500 0    60   ~ 0
+ADC3
+$Comp
+L CONN_02X20 P?
+U 1 1 5802A012
+P 13900 7550
+F 0 "P?" H 13900 8600 50  0000 C CNN
+F 1 "Arietta G25 aux" V 13900 7550 50  0000 C CNN
+F 2 "" H 13900 6600 50  0000 C CNN
+F 3 "" H 13900 6600 50  0000 C CNN
+	1    13900 7550
+	1    0    0    -1  
+$EndComp
+Text Label 13650 6600 2    60   ~ 0
+5V
+Text Label 13650 6700 2    60   ~ 0
+NSRT
+Text Label 13650 6800 2    60   ~ 0
+3V3
+Text Label 13650 6900 2    60   ~ 0
+SPI1_CK
+Text Label 13650 7000 2    60   ~ 0
+GND
+Text Label 13650 7100 2    60   ~ 0
+PA24
+Text Label 13650 7200 2    60   ~ 0
+PA25
+Text Label 13650 7300 2    60   ~ 0
+PA26
+Text Label 13650 7400 2    60   ~ 0
+PA27
+Text Label 13650 7500 2    60   ~ 0
+PA28
+Text Label 13650 7600 2    60   ~ 0
+PA29
+Text Label 13650 7700 2    60   ~ 0
+TXD0
+Text Label 13650 7800 2    60   ~ 0
+SPI1_CS0
+Text Label 13650 7900 2    60   ~ 0
+RXD1
+Text Label 13650 8000 2    60   ~ 0
+PC28
+Text Label 13650 8100 2    60   ~ 0
+PC4
+Text Label 13650 8200 2    60   ~ 0
+PC3
+Text Label 13650 8300 2    60   ~ 0
+1W
+Text Label 13650 8400 2    60   ~ 0
+PC1
+Text Label 13650 8500 2    60   ~ 0
+PC0
+Text Label 14150 6600 0    60   ~ 0
+VBAT
+Text Label 14150 6700 0    60   ~ 0
+USB_A_D-
+Text Label 14150 6800 0    60   ~ 0
+USB_A_D+
+Text Label 14150 6900 0    60   ~ 0
+SPI1_MOSI
+Text Label 14150 7000 0    60   ~ 0
+SPI1_MISO
+Text Label 14150 7100 0    60   ~ 0
+SCL0
+Text Label 14150 7200 0    60   ~ 0
+SDA0
+Text Label 14150 7300 0    60   ~ 0
+USB_B_D+
+Text Label 14150 7400 0    60   ~ 0
+USB_B_D-
+Text Label 14150 7500 0    60   ~ 0
+USB_C_D-
+Text Label 14150 7600 0    60   ~ 0
+USB_C_D+
+Text Label 14150 7700 0    60   ~ 0
+RXD0
+Text Label 14150 7800 0    60   ~ 0
+PA7
+Text Label 14150 7900 0    60   ~ 0
+TXD1
+Text Label 14150 8000 0    60   ~ 0
+PC27
+Text Label 14150 8100 0    60   ~ 0
+PC31
+Text Label 14150 8200 0    60   ~ 0
+PWM0
+Text Label 14150 8300 0    60   ~ 0
+PWM1
+Text Label 14150 8400 0    60   ~ 0
+ADC2
+Text Label 14150 8500 0    60   ~ 0
+ADC3
+$Comp
+L VCC #PWR?
+U 1 1 5802C595
+P 10450 6600
+F 0 "#PWR?" H 10450 6450 50  0001 C CNN
+F 1 "VCC" H 10450 6750 50  0000 C CNN
+F 2 "" H 10450 6600 50  0000 C CNN
+F 3 "" H 10450 6600 50  0000 C CNN
+	1    10450 6600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10450 6600 10450 6800
+Wire Wire Line
+	10450 6800 11200 6800
+$Comp
+L GND #PWR?
+U 1 1 5802C83C
+P 10450 7050
+F 0 "#PWR?" H 10450 6800 50  0001 C CNN
+F 1 "GND" H 10450 6900 50  0000 C CNN
+F 2 "" H 10450 7050 50  0000 C CNN
+F 3 "" H 10450 7050 50  0000 C CNN
+	1    10450 7050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10450 7050 10450 7000
+Wire Wire Line
+	10450 7000 11200 7000
+Text GLabel 12600 6650 1    60   Input ~ 0
+SDA
+Text GLabel 12450 6650 1    60   Input ~ 0
+SCL
+Wire Wire Line
+	12450 6650 12450 7100
+Wire Wire Line
+	12600 6650 12600 7200
+Wire Wire Line
+	12450 7100 11700 7100
+Wire Wire Line
+	12600 7200 11700 7200
+Text GLabel 5600 6400 0    60   Input ~ 0
+SDA
+Text GLabel 5600 6600 0    60   Input ~ 0
+SCL
+$Comp
+L R R?
+U 1 1 58032DC0
+P 5950 6400
+F 0 "R?" V 6030 6400 50  0000 C CNN
+F 1 "10K" V 5950 6400 50  0000 C CNN
+F 2 "" V 5880 6400 50  0000 C CNN
+F 3 "" H 5950 6400 50  0000 C CNN
+	1    5950 6400
+	0    1    -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 58032EEA
+P 5950 6600
+F 0 "R?" V 6030 6600 50  0000 C CNN
+F 1 "10K" V 5950 6600 50  0000 C CNN
+F 2 "" V 5880 6600 50  0000 C CNN
+F 3 "" H 5950 6600 50  0000 C CNN
+	1    5950 6600
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5600 6400 5800 6400
+Wire Wire Line
+	5800 6600 5600 6600
+Wire Wire Line
+	6100 6400 6350 6400
+Wire Wire Line
+	6350 6600 6100 6600
+Connection ~ 6350 6400
+$Comp
+L VCC #PWR?
+U 1 1 580338BB
+P 6350 6250
+F 0 "#PWR?" H 6350 6100 50  0001 C CNN
+F 1 "VCC" H 6350 6400 50  0000 C CNN
+F 2 "" H 6350 6250 50  0000 C CNN
+F 3 "" H 6350 6250 50  0000 C CNN
+	1    6350 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED D?
+U 1 1 58035441
+P 6150 7100
+F 0 "D?" H 6150 7200 50  0000 C CNN
+F 1 "LED" H 6150 7000 50  0000 C CNN
+F 2 "" H 6150 7100 50  0000 C CNN
+F 3 "" H 6150 7100 50  0000 C CNN
+	1    6150 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 58035708
+P 5700 7100
+F 0 "R?" V 5780 7100 50  0000 C CNN
+F 1 "220" V 5700 7100 50  0000 C CNN
+F 2 "" V 5630 7100 50  0000 C CNN
+F 3 "" H 5700 7100 50  0000 C CNN
+	1    5700 7100
+	0    -1   1    0   
+$EndComp
+$Comp
+L VCC #PWR?
+U 1 1 58035A66
+P 6350 6900
+F 0 "#PWR?" H 6350 6750 50  0001 C CNN
+F 1 "VCC" H 6350 7050 50  0000 C CNN
+F 2 "" H 6350 6900 50  0000 C CNN
+F 3 "" H 6350 6900 50  0000 C CNN
+	1    6350 6900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6350 6900 6350 7100
+Wire Wire Line
+	6350 6250 6350 6600
+Wire Wire Line
+	5850 7100 5950 7100
+$Comp
+L GND #PWR?
+U 1 1 58036468
+P 5400 7200
+F 0 "#PWR?" H 5400 6950 50  0001 C CNN
+F 1 "GND" H 5400 7050 50  0000 C CNN
+F 2 "" H 5400 7200 50  0000 C CNN
+F 3 "" H 5400 7200 50  0000 C CNN
+	1    5400 7200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5550 7100 5400 7100
+Wire Wire Line
+	5400 7100 5400 7200
 $EndSCHEMATC
